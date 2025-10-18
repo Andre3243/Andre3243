@@ -1,4 +1,4 @@
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D7D7&width=435&lines=Hi+there++I'm+Sebastian+%F0%9F%91%8B;Front-End+%2C+Mobile+engineer+" alt="Typing SVG" /></a>
+
  
  I love learning new technologies, and I am committed to developing websites or applications with beautiful interfaces and a good user experience.
  
