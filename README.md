@@ -1,4 +1,6 @@
-
+<h1 align="center">
+Hi,I'm Sebastian andres!
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpnZ2FheHRlc2Rsams4ZnFiNmYyMW4yZ21rZ3cxaXJ5ZGI2dXV0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="30"></h1>
  
  I love learning new technologies, and I am committed to developing websites or applications with beautiful interfaces and a good user experience.
  
