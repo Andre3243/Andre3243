@@ -9,13 +9,14 @@
 ```
 💻 Self-taught web and mobile developer
 📚 Multimedia Engineering (in progress) - Simón Bolívar University, Colombia | Software Programming Technician - SENA, Colombia 
-🌟 Main skills: JavaScript ⚡ · Java/Kotlin 📱
+🌟 Main languages: JavaScript ⚡ · Java/Kotlin 📱
 🚩 I love the whole app creation process: from the initial idea to "it works in production, don't touch it"
 💖 I have a toxic relationship with bugs that only appear in production
 🎮 Video games · Reading · 3D Modeling/Rendering
 ```
 </hr>
 
+<br>
 
  ### 🛠️ My Favorite Tools:
  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&ensp;
