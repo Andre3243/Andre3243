@@ -4,7 +4,7 @@
  
  I love learning new technologies, and I am committed to developing websites or applications with beautiful interfaces and a good user experience.
  <br>
- <img align="left" src="https://i.pinimg.com/736x/1c/18/87/1c18870cf198a2fdbe2e1deaf8dd772e.jpg" alt="Unfortunately I didn't find the author of the pic" width="320"/>
+ <img align="left" src="https://i.pinimg.com/736x/1c/18/87/1c18870cf198a2fdbe2e1deaf8dd772e.jpg" alt="Unfortunately I didn't find the author of the pic" width="320" height=" 290"/>
 <hr>
 
 ```
@@ -14,13 +14,10 @@
 🚩 I love the whole app creation process: from the initial idea to "it works in production, don't touch it"
 💖 I have a toxic relationship with bugs that only appear in production
 🎮 Video games · Reading · 3D Modeling/Rendering
+
 ```
 </hr>
 
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
