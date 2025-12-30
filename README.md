@@ -22,7 +22,7 @@
 <br>
 <br>
 
-## 🛠️ My Favorite Tools::
+<!-- ## 🛠️ My Favorite Tools::
  
  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&ensp;
 
@@ -49,7 +49,7 @@
 ## :rocket: other tools:
 
   <a hreft="#"><img alt="angular" src= "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50"></a>
-
+-->
 ## 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/sebastian-andre-5048332b5/" target="_blank">
