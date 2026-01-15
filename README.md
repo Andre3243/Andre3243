@@ -12,7 +12,6 @@
 📚 Multimedia Engineering (in progress) - Simón Bolívar University, Colombia | Software Programming Technician - SENA, Colombia 
 🌟 Main languages: JavaScript ⚡ · Java/Kotlin 📱
 🚩 I love the whole app creation process: from the initial idea to "it works in production, don't touch it"
-💖 I have a toxic relationship with bugs that only appear in production
 🎮 Video games · Reading · 3D Modeling/Rendering
 
 ```
